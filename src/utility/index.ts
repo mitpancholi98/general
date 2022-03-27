@@ -1,1 +1,1 @@
-export { default as resolveAsync } from './resolveAsync';
+export { default as resolveAsync } from './resolveAsync'
